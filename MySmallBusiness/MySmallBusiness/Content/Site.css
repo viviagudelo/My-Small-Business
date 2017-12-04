@@ -1,0 +1,96 @@
+﻿
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url("images/final2.png") ;
+  }
+
+/* padding para evitar que choque las esquinas*/
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.titulo
+{
+    color:brown;
+    text-align:center;
+}
+
+.iconContenedor {
+    background-color:#efefef;
+    height:59px;
+    width:55px;
+    border-radius:34%;
+    text-align:center;
+    padding: 2%;
+    margin: auto;
+}
+
+.iconItem {
+    color:#52d3aa;
+    font-size: 3em;
+}
+
+.cuadro {
+    background-color:darkgray;
+    padding:2%;
+    border-radius: 3%;
+    margin-left: 7%;
+    margin-bottom: 2%;
+}
+
+.cuadro2 {
+    text-align:center;
+    padding:2%;
+    background-color:azure;
+    border-radius: 8%;
+    margin-left: 7%;
+    margin-bottom: 2%;
+    height: 78px;
+    width: 185px;
+}
+
+#gtco-features {
+        margin-top: 8%;
+}
+
+.parrafo {
+    text-align: justify;
+    color:white;
+    font-size:large;
+}
+
+.fondo {
+        background-color: cadetblue;
+}
+
+.pregunta{
+    font-size: large;
+}
+
+.footer{
+    text-align: center;
+}
+
+.h1{
+    background-image: url("imagenes/banner.png");
+}
+
+.btn-default{
+    background-color: mediumaquamarine;
+        border-radius: 50%;
+
+
+}
